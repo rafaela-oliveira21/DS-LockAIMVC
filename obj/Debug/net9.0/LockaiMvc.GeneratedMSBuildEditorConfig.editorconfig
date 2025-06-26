@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LockaiMvc
 build_property.RootNamespace = LockaiMvc
-build_property.ProjectDir = C:\Users\Rafaela\Desktop\Rafaela\ARQUIVOS\DS-LockAiMVC\LockAiMVC\
+build_property.ProjectDir = C:\Users\Rafaela\Desktop\Rafaela\ARQUIVOS\DS-LockAiMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Rafaela\Desktop\Rafaela\ARQUIVOS\DS-LockAiMVC\LockAiMVC
+build_property.MSBuildProjectDirectory = C:\Users\Rafaela\Desktop\Rafaela\ARQUIVOS\DS-LockAiMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/Home/Index.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/PlanoLocacao/AutenticarPlanoLocacao.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/PlanoLocacao/AutenticarPlanoLocacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Mb2NhY2FvXEF1dGVudGljYXJQbGFub0xvY2FjYW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/PlanoLocacao/PlanoLocacao.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/PlanoLocacao/PlanoLocacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Mb2NhY2FvXFBsYW5vTG9jYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/PlanoLocacao/_LoginPartialRpg.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/PlanoLocacao/_LoginPartialRpg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Mb2NhY2FvXF9Mb2dpblBhcnRpYWxScGcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/Shared/Error.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/_ViewImports.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/_ViewStart.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/LockAiMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Rafaela/Desktop/Rafaela/ARQUIVOS/DS-LockAiMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6kxw153jpi

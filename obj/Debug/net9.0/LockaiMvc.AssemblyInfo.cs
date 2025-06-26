@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LockaiMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbbaccd6ee560595eab660ffa89df41362f3c38d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LockaiMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LockaiMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

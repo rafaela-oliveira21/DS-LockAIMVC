@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WDhETMDnp/M=",
+  "dgSpecHash": "s77eztnb+Ro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafaela\\Desktop\\Rafaela\\ARQUIVOS\\DS-LockAiMVC\\LockAiMVC\\LockaiMvc.csproj",
+  "projectFilePath": "C:\\Users\\Rafaela\\Desktop\\Rafaela\\ARQUIVOS\\DS-LockAiMVC\\LockaiMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.6\\microsoft.aspnetcore.jsonpatch.9.0.6.nupkg.sha512",
     "C:\\Users\\Rafaela\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\9.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.9.0.6.nupkg.sha512",
