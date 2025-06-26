@@ -1,0 +1,35 @@
+﻿@model List<PropostaLocacaoFront.Models.PropostaLocacao>
+
+<h2>Propostas de Locação</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Data</th>
+            <th>Usuário</th>
+            <th>Objeto</th>
+            <th>Plano</th>
+            <th>Início</th>
+            <th>Fim</th>
+            <th>Valor</th>
+            <th>Situação</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Data</td>
+                <td>@item.IdUsuario</td>
+                <td>@item.IdObjeto</td>
+                <td>@item.IdPlanoLocacao</td>
+                <td>@item.DataInicio</td>
+                <td>@item.DataFim</td>
+                <td>@item.Valor</td>
+                <td>@item.Situacao</td>
+            </tr>
+        }
+    </tbody>
+</table>
